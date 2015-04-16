@@ -61,9 +61,9 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 
 "lng_month_day" = "{month} {day}";
 
-"lng_cancel" = "Відміна";
+"lng_cancel" = "Скасувати";
 "lng_continue" = "Продовжити";
-"lng_close" = "Закритиe";
+"lng_close" = "Закриття";
 "lng_connecting" = "З'єднання..";
 "lng_reconnecting" = "Перепідключення {count:now|in # s|in # s}..";
 "lng_reconnecting_try_now" = "Спробувати ще";
@@ -81,7 +81,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_status_lastseen_yesterday" = "востаннє бачили вчора о {time}";
 "lng_status_lastseen_date" = "востаннє бачили {date}";
 "lng_status_lastseen_date_time" = "востаннє бачили {date} о {time}";
-"lng_status_online" = "у мержі";
+"lng_status_online" = "у мережі";
 "lng_status_connecting" = "підключення..";
 
 "lng_chat_status_unaccessible" = "група недоступна";
@@ -103,7 +103,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_phone_desc" = "Будь ласка, підтвердіть свій код країни та\nвведіть свій номер телефону.";
 "lng_phone_notreg" = "Зверніть увагу: якщо ви не маєте облікового запису телеграму \nбудь ласка [b]sign up[/b] з [a href=\"https://telegram.org/\"]iOS / Android[/a] або {signup_start}тут »{signup_end}";
 "lng_country_code" = "код країни";
-"lng_bad_country_code" = "Невірний код країни";
+"lng_bad_country_code" = "Неправильний код країни";
 "lng_country_ph" = "Пошук";
 "lng_country_done" = "Виконано";
 "lng_country_none" = "Країну не знайдено";
